@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom right, black, purple);
+}
+
+.label {
+    -fx-text-fill: red;
+}
+
+.button#btn {
+    -fx-background-color: #ffeecc;
+    -fx-font-weight: 700;
+    -fx-text-fill: black;
+}
+
+.button#exit {
+    -fx-background-color: #90ee90;
+    -fx-font-weight: 700;
+    -fx-text-fill: black;
+}
+ /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property
+ */
